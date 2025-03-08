@@ -1,4 +1,4 @@
-# 📂 Production Storage Workloads Datasets and Research Papers  
+# 📂 Production Storage Workloads and Research Papers  
 
 A curated collection of research papers and publicly available datasets for storage workload analysis and performance research.  
 
