@@ -20,6 +20,8 @@ A curated collection of research papers and publicly available datasets for stor
 | 📍 **Venue**  | 📄 **Paper** | 📊 **Dataset / Trace** |  
 |-------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------|  
 | **FAST**   | [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.usenix.org/conference/fast23/presentation/lu) | [Alibaba NVME Fail-Slow](http://iotta.snia.org/traces/reliability/36782) |  
+| **SOSP**   | [FIFO Queues are All You Need for Cache Eviction](https://dl.acm.org/doi/pdf/10.1145/3600006.3613147) | [MetaKV key-value traces](https://ftp.pdl.cmu.edu/pub/datasets/twemcacheWorkload/cacheDatasets/metaKV/) |
+| **SOSP**   | [FIFO Queues are All You Need for Cache Eviction](https://dl.acm.org/doi/pdf/10.1145/3600006.3613147) | [MetaCDN object traces](https://ftp.pdl.cmu.edu/pub/datasets/twemcacheWorkload/cacheDatasets/metaCDN/) |
 
 
 ---
